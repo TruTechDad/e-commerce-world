@@ -41,4 +41,4 @@ This project is licensed under the terms of the [MIT License](https://opensource
 
 ## Screenshots
 
-![Screenshot of E-Commerce World](./Screenshot%202024-03-24%20at%204.23.51 PM.png.)
+![Screenshot of Ecommerec.png]
