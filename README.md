@@ -38,3 +38,7 @@ For questions about the project, please contact [trutechdad](https://github.com/
 ## License
 
 This project is licensed under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
+## Screenshots
+
+![Screenshot of E-Commerce World](./Screenshot%202024-03-24%20at%204.23.51 PM.png.)
